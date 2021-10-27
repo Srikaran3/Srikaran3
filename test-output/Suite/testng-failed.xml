@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="6" verbose="2" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="org.testng.ParallelExecution">
+        <methods>
+          <include name="openChromeGoogle"/>
+          <include name="openChromeYahoo"/>
+          <include name="openEdgeYahoo"/>
+          <include name="openEdgeBing"/>
+        </methods>
+      </class> <!-- org.testng.ParallelExecution -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

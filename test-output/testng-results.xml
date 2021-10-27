@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="133" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+    <groups>
+      <group name="smoke">
+        <method signature="PracticeGrouping2.case2()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case2" class="org.testng.PracticeGrouping2"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="PracticeGrouping2.case5()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case5" class="org.testng.PracticeGrouping2"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Default test" duration-ms="133" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+      <class name="org.testng.PracticeGrouping2">
+        <test-method status="PASS" signature="case2()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case2" duration-ms="15" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+        <test-method status="PASS" signature="case5()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case5" duration-ms="0" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case5 -->
+        <test-method status="PASS" signature="case6()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case6" duration-ms="8" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+        <test-method status="PASS" signature="case6()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case6" duration-ms="8" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+        <test-method status="PASS" signature="case6()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case6" duration-ms="6" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+        <test-method status="PASS" signature="case6()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case6" duration-ms="7" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+        <test-method status="PASS" signature="case6()[pri:0, instance:org.testng.PracticeGrouping2@2b98378d]" name="case6" duration-ms="8" started-at="2021-10-15T06:40:21Z" finished-at="2021-10-15T06:40:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+      </class> <!-- org.testng.PracticeGrouping2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
